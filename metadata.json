@@ -1,0 +1,8 @@
+{
+  "name": "Remix: FL Studio Resource Advisor",
+  "description": "Un asesor interactivo en tiempo real que ayuda a optimizar recursos en FL Studio, analiza capturas de pantalla de tus configuraciones con IA y genera comandos de optimización del sistema.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
